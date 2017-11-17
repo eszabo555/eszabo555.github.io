@@ -1,3 +1,9 @@
+@media (max-width: 576px) {
+  body {
+    padding-top: 8.2rem;
+  }
+}
+
 .navbar-brand {
   font-family: 'Ubuntu Condensed';
   font-size: 36px;
