@@ -1,2 +1,2 @@
-# TODO: Eva should learn
+# TODO: Eva is learning a lot!
 ## markdown
